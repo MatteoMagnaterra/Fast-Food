@@ -1,0 +1,459 @@
+[
+    {
+        "data": "2014-12-14 10:36:19",
+        "codice_ordine": "BKGA",
+        "stato_ordine": "Confermato",
+        "prodotti": [
+            {
+                "nome": "Acqua",
+                "ingredienti": [
+                    "ghiaccio"
+                ],
+                "prezzo": 1.0,
+                "punti": 0,
+                "tipo": "Bevanda"
+            }
+        ],
+        "totale": {
+            "prezzo": 1.0,
+            "punti": 0
+        }
+    },
+    {
+        "data": "2021-12-14 10:40:20",
+        "codice_ordine": "AFYX",
+        "stato_ordine": "Confermato",
+        "prodotti": [
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            }
+        ],
+        "totale": {
+            "prezzo": 61.0,
+            "punti": 165
+        }
+    },
+    {
+        "data": "2014-12-14 10:51:18",
+        "codice_ordine": "4DHQ",
+        "stato_ordine": "Confermato",
+        "prodotti": [
+            {
+                "nome": "Coca-Cola",
+                "ingredienti": [
+                    "ghiaccio"
+                ],
+                "prezzo": 3.0,
+                "punti": 2,
+                "tipo": "Bevanda"
+            },
+            {
+                "nome": "Coca-Cola",
+                "ingredienti": [
+                    "ghiaccio"
+                ],
+                "prezzo": 3.0,
+                "punti": 2,
+                "tipo": "Bevanda"
+            }
+        ],
+        "totale": {
+            "prezzo": 6.0,
+            "punti": 4
+        }
+    },
+    {
+        "data": "2012-12-14 10:51:29",
+        "codice_ordine": "UQY6",
+        "stato_ordine": "Confermato",
+        "prodotti": [
+            {
+                "nome": "Crema Catalana",
+                "ingredienti": [
+                    "uova",
+                    "dito umano"
+                ],
+                "prezzo": 4.5,
+                "punti": 3,
+                "tipo": "Dolce"
+            },
+            {
+                "nome": "Crema Catalana",
+                "ingredienti": [
+                    "uova",
+                    "dito umano"
+                ],
+                "prezzo": 4.5,
+                "punti": 3,
+                "tipo": "Dolce"
+            }
+        ],
+        "totale": {
+            "prezzo": 9.0,
+            "punti": 6
+        }
+    },
+    {
+        "data": "2024-12-16 11:47:01",
+        "codice_ordine": "A2JG",
+        "stato_ordine": "In Esecuzione",
+        "prodotti": [
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Te' al Limone",
+                "ingredienti": [
+                    "ghiaccio"
+                ],
+                "prezzo": 1.5,
+                "punti": 1,
+                "tipo": "Bevanda"
+            }
+        ],
+        "totale": {
+            "prezzo": 8.5,
+            "punti": 16
+        }
+    },
+    {
+        "data": "2024-12-16 14:37:25",
+        "codice_ordine": "9KOJ",
+        "stato_ordine": "In Esecuzione",
+        "prodotti": [
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Patatine Fritte",
+                "ingredienti": [
+                    "maionese",
+                    "ketchup"
+                ],
+                "prezzo": 3.5,
+                "punti": 2,
+                "tipo": "Contorno"
+            }
+        ],
+        "totale": {
+            "prezzo": 10.5,
+            "punti": 17
+        }
+    },
+    {
+        "data": "2024-12-16 16:43:59",
+        "codice_ordine": "ABYM",
+        "stato_ordine": "In Esecuzione",
+        "prodotti": [
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Classic Burger",
+                "ingredienti": [
+                    "insalata",
+                    "Cheddar",
+                    "burger di maiale",
+                    "pane"
+                ],
+                "prezzo": 7.0,
+                "punti": 10,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Classic Burger",
+                "ingredienti": [
+                    "insalata",
+                    "Cheddar",
+                    "burger di maiale",
+                    "pane"
+                ],
+                "prezzo": 7.0,
+                "punti": 10,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Classic Burger",
+                "ingredienti": [
+                    "insalata",
+                    "Cheddar",
+                    "burger di maiale",
+                    "pane"
+                ],
+                "prezzo": 7.0,
+                "punti": 10,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Classic Burger",
+                "ingredienti": [
+                    "insalata",
+                    "Cheddar",
+                    "burger di maiale",
+                    "pane"
+                ],
+                "prezzo": 7.0,
+                "punti": 10,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Classic Burger",
+                "ingredienti": [
+                    "insalata",
+                    "Cheddar",
+                    "burger di maiale",
+                    "pane"
+                ],
+                "prezzo": 7.0,
+                "punti": 10,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Classic Burger",
+                "ingredienti": [
+                    "insalata",
+                    "Cheddar",
+                    "burger di maiale",
+                    "pane"
+                ],
+                "prezzo": 7.0,
+                "punti": 10,
+                "tipo": "Panino"
+            }
+        ],
+        "totale": {
+            "prezzo": 43.0,
+            "punti": 75
+        }
+    },
+    {
+        "data": "2024-12-17 16:37:34",
+        "codice_ordine": "M434",
+        "stato_ordine": "In Esecuzione",
+        "prodotti": [
+            {
+                "nome": "Chicken Sandwich",
+                "ingredienti": [
+                    "pane",
+                    "pollo fritto",
+                    "lattuga",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 15,
+                "tipo": "Panino"
+            }
+        ],
+        "totale": {
+            "prezzo": 7.0,
+            "punti": 15
+        }
+    },
+    {
+        "data": "2024-12-17 17:40:11",
+        "codice_ordine": "G2Y5",
+        "stato_ordine": "In Esecuzione",
+        "prodotti": [
+            {
+                "nome": "Cheesecake alle fragole",
+                "ingredienti": [
+                    "fragole"
+                ],
+                "prezzo": 7.0,
+                "punti": 12,
+                "tipo": "Dolce"
+            },
+            {
+                "nome": "Cheese Burger",
+                "ingredienti": [
+                    "pane",
+                    "hamburger",
+                    "formaggio",
+                    "pomodori",
+                    "lattuga",
+                    "ketchup",
+                    "maionese"
+                ],
+                "prezzo": 7.0,
+                "punti": 14,
+                "tipo": "Panino"
+            },
+            {
+                "nome": "Acqua",
+                "ingredienti": [
+                    "ghiaccio"
+                ],
+                "prezzo": 1.0,
+                "punti": 0,
+                "tipo": "Bevanda"
+            },
+            {
+                "nome": "Olive Ascolane",
+                "ingredienti": [],
+                "prezzo": 5.0,
+                "punti": 7,
+                "tipo": "Contorno"
+            }
+        ],
+        "totale": {
+            "prezzo": 18.0,
+            "punti": 33
+        }
+    }
+]

@@ -1,0 +1,63 @@
+{
+    "clienti": [
+        {
+            "nome": "matte",
+            "cognome": "magna",
+            "email": "mm@.",
+            "password": "123",
+            "telefono": "1122334455",
+            "username": "mm",
+            "ruolo": "Cliente"
+        },
+        {
+            "nome": "Benedetta",
+            "cognome": "Tribulini",
+            "email": "benetribi@gmail.com",
+            "password": "12345",
+            "telefono": "1234567890",
+            "username": "bene",
+            "ruolo": "Cliente"
+        },
+        {
+            "nome": "Benedetta",
+            "cognome": "tribulini",
+            "email": "cddg@.com",
+            "password": "123",
+            "telefono": "1234567890",
+            "username": "bene",
+            "ruolo": "Cliente"
+        }
+    ],
+    "amministratori": [
+        {
+            "nome": "Matteo",
+            "cognome": "Magnaterra",
+            "email": "mattemagna@gmail.com",
+            "password": "m12345",
+            "telefono": "1234567890",
+            "username": "matte",
+            "ruolo": "Amministratore",
+            "codice": "ciaoo"
+        },
+        {
+            "nome": "Elia",
+            "cognome": "Scansani",
+            "email": "eli@.it",
+            "password": "1234",
+            "telefono": "1234567890",
+            "username": "eli",
+            "ruolo": "Amministratore",
+            "codice": "ciao"
+        },
+        {
+            "nome": "grazia",
+            "cognome": "graziella",
+            "email": "g@.com",
+            "password": "123",
+            "telefono": "1234567890",
+            "username": "gra",
+            "ruolo": "Amministratore",
+            "codice": "GNY6"
+        }
+    ]
+}

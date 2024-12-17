@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Sarah",
+        "cognome": "Gialli",
+        "data_di_nascita": "1995-06-17",
+        "telefono": "3276543210",
+        "email": "sara.gialli@fastfood.com",
+        "username": "sarah",
+        "password": "pass"
+    },
+    {
+        "nome": "Luca",
+        "cognome": "Neri",
+        "data_di_nascita": "1978-01-15",
+        "telefono": "3399876543",
+        "email": "luca.neri@fastfood.com",
+        "username": "luca",
+        "password": "nero"
+    },
+    {
+        "nome": "Laura",
+        "cognome": "Rinaldi",
+        "data_di_nascita": "12-12-12",
+        "telefono": "1234567890",
+        "email": "rinal@.it",
+        "username": "rinal",
+        "password": "pass"
+    },
+    {
+        "nome": "Azzurra",
+        "cognome": "Bianco",
+        "data_di_nascita": "12121999",
+        "telefono": "1234567890",
+        "email": "a@.com",
+        "username": "azz",
+        "password": "123"
+    }
+]
