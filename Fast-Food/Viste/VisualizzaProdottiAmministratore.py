@@ -146,7 +146,7 @@ class VisualizzaProdotti(QtWidgets.QWidget):
                             'ingredienti': [],
                             'prezzo': float(details[1].strip().replace(',', '.')),
                             'punti': int(details[2].strip()),
-                            'quantita': int(details[3].strip()) if len(details) > 3 else 100  # Quantità predefinita: 100
+                            "quantita'": int(details[3].strip()) if len(details) > 3 else 100  # Quantità predefinita: 100
                         }
                         products.append(new_product)
                         product_list.clear()
