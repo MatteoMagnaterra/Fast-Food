@@ -37,7 +37,6 @@
             ],
             "prezzo": 7.0,
             "punti": 14,
-            "quantita": 100,
             "quantita'": 99
         },
         {
@@ -52,7 +51,7 @@
             ],
             "prezzo": 6.0,
             "punti": 8,
-            "quantita": 100
+            "quantita'": 100
         },
         {
             "nome": "Gluten free",
@@ -66,7 +65,7 @@
             ],
             "prezzo": 10.0,
             "punti": 10,
-            "quantita": 100
+            "quantita'": 100
         }
     ],
     "bevande": [
@@ -146,7 +145,6 @@
             "ingredienti": [],
             "prezzo": 8.0,
             "punti": 9,
-            "quantita": 100,
             "quantita'": 100
         }
     ],
@@ -175,7 +173,6 @@
             "ingredienti": [],
             "prezzo": 5.0,
             "punti": 7,
-            "quantita": 100,
             "quantita'": 100
         },
         {
@@ -183,7 +180,6 @@
             "ingredienti": [],
             "prezzo": 5.0,
             "punti": 7,
-            "quantita": 100,
             "quantita'": 99
         }
     ]
