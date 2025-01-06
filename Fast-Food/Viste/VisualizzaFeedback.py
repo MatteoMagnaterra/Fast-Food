@@ -27,7 +27,7 @@ class VisualizzaFeedback(QtWidgets.QWidget):
         """Carica i voti dal file JSON e calcola la media."""
         try:
             # Controlla se il file esiste
-            with open("../feedback.json", "r") as file:
+            with open("feedback.json", "r") as file:
                 feedback_data = json.load(file)
 
             if feedback_data:
